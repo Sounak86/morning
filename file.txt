@@ -1,0 +1,4 @@
+if(time<=12PM)
+printf("Good morning. Have a good day!");
+else
+printf("Bye, see you tommorrow");
